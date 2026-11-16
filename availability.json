@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T16:13:31.860Z",
+  "updated": "2026-11-16T16:14:07.189Z",
   "ranges": {
     "old-hippo": [
       [
@@ -356,6 +356,12 @@
     "doringpoort-apiesdoring": [
       [
         "2026-12-15",
+        "2027-01-03"
+      ]
+    ],
+    "doringpoort-delagoadoring": [
+      [
+        "2026-12-16",
         "2027-01-03"
       ]
     ]
