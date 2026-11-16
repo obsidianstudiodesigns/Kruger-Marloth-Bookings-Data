@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T16:10:58.773Z",
+  "updated": "2026-11-16T16:11:46.803Z",
   "ranges": {
     "old-hippo": [
       [
@@ -340,6 +340,12 @@
       ]
     ],
     "doringpoort-luxury-home": [
+      [
+        "2026-12-15",
+        "2027-01-03"
+      ]
+    ],
+    "doringpoort-apiesdoring": [
       [
         "2026-12-15",
         "2027-01-03"
